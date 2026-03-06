@@ -209,7 +209,7 @@ Tono técnico y profesional. Máximo 180 palabras.`;
       <div style={S.header}>
         <div style={S.logoBox}>⚙</div>
         <div>
-          <div style={S.headerTitle}>STRUCTURAL LIFE PREDICTOR</div>
+          <div style={S.headerTitle}>PREDICTOR DE VIDA ÚTIL</div>
           <div style={S.headerSub}>ANÁLISIS DE FATIGA · ESTRUCTURAS SOLDADAS · MAQUINARIA PESADA</div>
         </div>
       </div>
